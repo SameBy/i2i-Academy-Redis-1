@@ -4,7 +4,7 @@ This project demonstrates the performance and latency architectural differences 
 
 ## 🚀 Live Demo
 You can try the live interactive benchmark simulation directly on your browser without any local setup:
-👉 **[CLICK HERE FOR LIVE BENCHMARK DEMO](https://YOUR_GITHUB_USERNAME.github.io/i2i-Academy-Redis-1/)**
+👉 **[CLICK HERE FOR LIVE BENCHMARK DEMO](https://sameby.github.io/i2i-Academy-Redis-1/)**
 
 ## 🛠️ Project Architecture & Features
 - **High-Volume Insertion:** Inserts 10,000 dummy `Person` records into Redis.
